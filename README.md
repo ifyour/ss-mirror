@@ -13,9 +13,10 @@
 7. Then it will output: `server listening at { address: '127.0.0.1', family: 'IPv4', port: 1080 }`
 8. OK, enjoy it! 🤡
 
-## About
+## Tips
 
-This project fork from `521xueweihan/shadowsocks-heroku`, you can find it on GitHub.
+* Download [SwitchyOmega.crx](https://github.com/FelisCatus/SwitchyOmega/releases).
+* This project fork from `shadowsocks-heroku`, you can find it on GitHub.
 
 ## License
 
