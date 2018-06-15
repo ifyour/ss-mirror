@@ -15,8 +15,8 @@
 
 ## Tips
 
-* Download [SwitchyOmega.crx](https://github.com/FelisCatus/SwitchyOmega/releases).
-* This project fork from `shadowsocks-heroku`, you can find it on GitHub.
+* Download [SwitchyOmega.crx](https://github.com/FelisCatus/SwitchyOmega/releases)
+* This project fork from `shadowsocks-heroku`, you can find it on GitHub
 
 ## License
 
