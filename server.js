@@ -79,7 +79,7 @@
     res.writeHead(200, {
       'Content-Type': 'text/plain'
     });
-    return res.end("SERVER IS RUNNING 🤓");
+    return res.end("SERVER IS RUNNING...");
   });
 
   wss = new WebSocketServer({

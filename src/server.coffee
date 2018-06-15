@@ -44,7 +44,7 @@ if METHOD.toLowerCase() in ["", "null", "table"]
 
 server = http.createServer (req, res) ->
   res.writeHead 200, 'Content-Type': 'text/plain'
-  res.end("SERVER IS RUNNING 🤓")
+  res.end("SERVER IS RUNNING...")
 
 wss = new WebSocketServer server: server
 
