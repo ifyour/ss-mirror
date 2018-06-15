@@ -6,7 +6,7 @@
 
 1. Fork this project.
 2. Create new App in Heroku.
-3. Deploy branch.
+3. Deploy branch in Heroku.
 4. Set the password and method, support: `rc4-md5` `aes-256-cfb` `camellia-256-cfb`.
 5. Clone this project and install dependencies.
 6. `node local.js -s $APPNAME.herokuapp.com -l 1080 -m $METHOD -k $PASSWORD -r 80`
