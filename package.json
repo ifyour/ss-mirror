@@ -7,7 +7,7 @@
     "ws": "^1.0.1"
   },
   "scripts": {
-    "start": "node server.js -b 0.0.0.0",
-    "proxy": "node local.js -s hero-kuss.herokuapp.com -l 1081 -m aes-256-cfb -k ifyour -r 80"
+    "start": "node server.js",
+    "proxy": "node local.js"
   }
 }
