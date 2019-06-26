@@ -9,9 +9,10 @@
 3. Deploy branch in Heroku.
 4. Set the password and method, support: `rc4-md5` `aes-256-cfb` `camellia-256-cfb`.
 5. Clone this project and install dependencies.
-6. `node local.js -s $APPNAME.herokuapp.com -l 1080 -m $METHOD -k $PASSWORD -r 80`
-7. Then it will output: `server listening at { address: '127.0.0.1', family: 'IPv4', port: 1080 }`
-8. OK, enjoy it! 🤡
+6. Fill in the `config.json` information.
+7. `npm run proxy`.
+8. Then it will output: `server listening at { address: '127.0.0.1', family: 'IPv4', port: 1081 }`
+9. OK, enjoy it! 🤡
 
 ## Tips
 
