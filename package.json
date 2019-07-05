@@ -2,9 +2,9 @@
   "name": "shadowsocks-heroku",
   "version": "0.9.10",
   "dependencies": {
-    "minimist": "^1.2.0",
-    "https-proxy-agent": "^2.2.0",
-    "ws": "^3.3.1"
+    "minimist": "1.2.0",
+    "https-proxy-agent": "2.2.1",
+    "ws": "3.3.1"
   },
   "scripts": {
     "start": "node server.js",
