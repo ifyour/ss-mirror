@@ -1,5 +1,5 @@
 {
-  "server": "ss.haotizi.tk",
+  "server": "new-ss-proxy.herokuapp.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
