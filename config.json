@@ -1,5 +1,5 @@
 {
-  "server": "new-ss-proxy.herokuapp.com",
+  "server": "us-wsp.herokuapp.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 10808,
